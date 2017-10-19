@@ -81,14 +81,14 @@ figcaption {
 
 .col-1 {
   float: left;
-  width: 31.33%;
+  width: 32%;
 }
 
 .col-2 {
   float: left;
-  width: 62.66%;
+  width: 66%;
 }
 
 .col-3 {
-  
+  width: 98%;
 }
